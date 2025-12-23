@@ -1,7 +1,6 @@
-# bxl pswd gen.
+# bxl pswd gen. (ai generated)
 
 yo what is this 💀  
-
 this is a goofy ahh password generator  
 made for people who say “yeah my password is strong” and then use `123456`
 
